@@ -11,3 +11,4 @@ time1=time.process_time()
 b.bfs(g._RandomGraph__graph,0,100)
 time2=time.process_time()
 print("Searching time is: {} ".format(time2-time1))
+
